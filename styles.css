@@ -125,7 +125,7 @@ header {
 /*responsive*/
             @media only screen and (max-width: 840px) {
                 .contenedor {
-        
+                    margin: 20px auto;
                     display: grid;
                     gap: 1rem;
                     grid-template-columns: repeat(1, auto);
